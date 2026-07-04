@@ -10,7 +10,7 @@ sessions is working, which is waiting on you, and how hard your machine is
 breathing — without alt-tabbing to check.
 
 <p align="center">
-  <a href="https://latent-spaces.github.io/cled/"><img src="docs/cled-demo.gif" alt="CLED — your keyboard as a live agent panel" width="480"></a>
+  <a href="https://latent-spaces.github.io/cled/"><img src="https://raw.githubusercontent.com/latent-spaces/cled/main/docs/cled-demo.gif" alt="CLED — your keyboard as a live agent panel" width="480"></a>
 </p>
 
 <p align="center">
