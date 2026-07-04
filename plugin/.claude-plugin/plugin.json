@@ -1,0 +1,6 @@
+{
+  "name": "cled",
+  "description": "Launch CLED — ambient keyboard status for your Claude Code agents via OpenRGB",
+  "version": "0.1.0",
+  "author": { "name": "Nadav Bhonker" }
+}

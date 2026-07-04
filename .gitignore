@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+node_modules/
+.DS_Store
+memory/
+dist/
+build/
+*.egg-info/
+
+# Local-only demo recorder + its recording (never distributed)
+demo.sh
+demo/

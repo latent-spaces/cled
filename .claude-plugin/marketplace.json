@@ -1,0 +1,11 @@
+{
+  "name": "cled",
+  "owner": { "name": "Nadav Bhonker" },
+  "plugins": [
+    {
+      "name": "cled",
+      "source": "./plugin",
+      "description": "Launch CLED — ambient keyboard status for your Claude Code agents via OpenRGB"
+    }
+  ]
+}
