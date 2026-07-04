@@ -6,6 +6,19 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = "MIT"
 authors = [{ name = "Nadav Bhonker" }]
+keywords = ["openrgb", "rgb", "keyboard", "led", "claude", "codex", "ambient", "status", "daemon", "macos"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Operating System :: MacOS :: MacOS X",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: System :: Monitoring",
+    "Topic :: Utilities",
+]
 dependencies = [
     "openrgb-python",
     "psutil",
@@ -13,6 +26,11 @@ dependencies = [
 
 [project.scripts]
 cled = "cled.cled:main"
+
+[project.urls]
+Homepage = "https://github.com/latent-spaces/cled"
+Repository = "https://github.com/latent-spaces/cled"
+Issues = "https://github.com/latent-spaces/cled/issues"
 
 [dependency-groups]
 dev = [

@@ -55,7 +55,7 @@ your machine (OpenRGB, a controllable keyboard, iTerm2) and launches the daemon 
 its own window:
 
 ```
-/plugin marketplace add nadavbh12/cled
+/plugin marketplace add latent-spaces/cled
 /plugin install cled@cled
 ```
 
@@ -65,7 +65,7 @@ cled`, so the PyPI package above stays the single source of truth.
 Or run from a clone, handy if you want to hack on it (see *Make it yours* below):
 
 ```sh
-git clone https://github.com/nadavbh12/cled
+git clone https://github.com/latent-spaces/cled
 cd cled
 uv run cled
 ```

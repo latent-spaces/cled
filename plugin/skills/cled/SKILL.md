@@ -41,7 +41,7 @@ independent of this Claude session):
     END
 
 `uvx cled` fetches CLED from PyPI and starts it. (Before CLED is published to PyPI,
-use `uvx --from git+https://github.com/nadavbh12/cled cled` instead.)
+use `uvx --from git+https://github.com/latent-spaces/cled cled` instead.)
 
 ## Confirm
 
